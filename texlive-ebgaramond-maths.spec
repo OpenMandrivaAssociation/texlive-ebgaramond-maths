@@ -1,6 +1,6 @@
 Name:		texlive-ebgaramond-maths
 Version:	52168
-Release:	1
+Release:	2
 Summary:	LaTeX support for EBGaramond fonts in mathematics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ebgaramond-maths
