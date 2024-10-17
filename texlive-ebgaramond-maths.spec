@@ -3,7 +3,7 @@ Version:	52168
 Release:	2
 Summary:	LaTeX support for EBGaramond fonts in mathematics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ebgaramond-maths
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ebgaramond-maths
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ebgaramond-maths.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ebgaramond-maths.doc.r%{version}.tar.xz
